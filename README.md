@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# 💬 EarBuds Overview
+
+## ℹ️ What is it?
+
+EarBuds is a musical social media platform for discovering and rating music albums. Users are able to rate their favorite (or least favorite) albums, leave reviews on records, and explore their friends' tastes in music. Additionally, EarBuds provides users with album recommendations on their home pages with the aim of helping them discover new music.
+
+As an avid music-listener, I love to share my opinions on albums. I feel that albums are works of art, and discussing them sparks a truly unique discourse. I aspired to create a space dedicated to exploring new albums and learning about what people think of them, thus EarBuds was born.
+
+## 💻 Technologies
+
+EarBuds implements JavaScript and React to facilitate user-interaction, letting users view profiles and leave reviews. It employs HTML for structure and CSS for colors, styling, and intuitive navigation through 5 user-friendly pages. It utilizes Bootstrap for responsive layout and MongoDB to pull album data from libraries and allow users to create EarBuds accounts. Lastly, it incorporates Redux to handle state management across the application.
+
+TL;DR:
+
+- JavaScript
+- React
+- HTML
+- CSS
+- Bootstrap
+- MongoDB
+- Redux
+
+# Running EarBuds on your local machine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
