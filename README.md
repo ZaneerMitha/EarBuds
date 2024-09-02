@@ -1,4 +1,4 @@
-# 💬 EarBuds Overview
+# 🎵 EarBuds Overview
 
 ## ℹ️ What is it?
 
